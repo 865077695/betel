@@ -1,0 +1,44 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "kinzo-IPC后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zzq",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "eslint": "^3.18.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.1.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-uglify": "^2.1.2",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-optipng": "^5.2.1",
+    "uglify": "^0.1.5"
+  },
+  "dependencies": {
+    "angular-echarts": "^0.3.6"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "node": true
+    },
+    "rules": {
+      "eqeqeq": "off",
+      "curly": "error",
+      "quotes": [
+        "error",
+        "double"
+      ],
+      "plugin1/rule1": "error"
+    }
+  }
+}
