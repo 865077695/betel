@@ -1,1 +1,1 @@
-# 忽略node_modules文件夹node_modules/# 忽略.git文件夹.git/#忽略.idea文件夹.idea/#忽略atest文件夹atest/
+# 忽略.git文件夹.git/#忽略atest文件夹atest/# 忽略node_modules文件夹node_modules/# 忽略.idea文件夹.idea/# 忽略areSource文件夹aresource/# 忽略easy-mock数据接口地址文件easy-mock.txt
