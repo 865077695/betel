@@ -1,1 +1,1 @@
-$(function(){$(".wx,.sel").on("mouseenter",function(){$(this).find(".nr,.opt").removeClass("hide")}),$(".wx,.sel").on("mouseleave",function(){$(this).find(".nr,.opt").addClass("hide")})});
+$(function(){$(".sel").on("mouseenter",function(){$(this).find(".nr,.opt").removeClass("hide")}),$(".sel").on("mouseleave",function(){$(this).find(".nr,.opt").addClass("hide")})});
